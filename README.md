@@ -6,4 +6,4 @@ I start with data cleaning, that comprehends NA, null and Nan detection and trea
 
 Then I preprocessed data by encoding string varaibles through StringIndexer, OneHotEncoder, and Vector Assembler; in order to arrange X and Y for models.
 
-In the end I fitted Logistic Regression and Random Forest models whith training and test split approach.
+In the end I fitted Logistic Regression and Random Forest models with training and test split approach.
