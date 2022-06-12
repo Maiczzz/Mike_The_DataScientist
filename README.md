@@ -1,6 +1,6 @@
 # Stroke data prediction using PySpark
 
-In this project work on healtcare dataset, in particular stroke data. There are 5110 observations and 12 variables. I considered the variable 'stroke' as response varaible and others as predictors.
+In this project O work on healtcare dataset, in particular stroke data. There are 5110 observations and 12 variables. I considered the variable 'stroke' as response varaible and others as predictors.
 
 I start with data cleaning, that comprehends NA, null and Nan detection and treament; varaible casting and conversion and, finally, graphic exploration.
 
